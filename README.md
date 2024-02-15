@@ -1,2 +1,1 @@
-# JournalApp
 Host vue app.
