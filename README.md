@@ -1,2 +1,2 @@
-# FlowerJournalApp
+# JournalApp
 Host vue app.
